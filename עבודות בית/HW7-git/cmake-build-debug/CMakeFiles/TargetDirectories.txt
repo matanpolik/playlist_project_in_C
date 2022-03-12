@@ -1,0 +1,3 @@
+/Users/matanpolik/Desktop/COMPUTER SCIENCE/שנה א/מבוא למדמח/עבודות בית/HW7-git/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/matanpolik/Desktop/COMPUTER SCIENCE/שנה א/מבוא למדמח/עבודות בית/HW7-git/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/matanpolik/Desktop/COMPUTER SCIENCE/שנה א/מבוא למדמח/עבודות בית/HW7-git/cmake-build-debug/CMakeFiles/HW7_git.dir
